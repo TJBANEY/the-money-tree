@@ -1,0 +1,9 @@
+{
+  "workbench.colorCustomizations": {
+    "[Tokyo Night]": {
+      "editorCodeLens.foreground": "#7982a9",
+      "window.activeBorder": "#ff0000",
+      "window.inactiveBorder": "#0000ff"
+    }
+  }
+}
